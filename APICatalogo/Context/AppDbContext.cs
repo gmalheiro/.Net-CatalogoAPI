@@ -1,5 +1,6 @@
 ﻿using APICatalogo.Models;
 using Microsoft.EntityFrameworkCore;
+using Pomelo.EntityFrameworkCore.MySql.Design;
 
 namespace APICatalogo.Context
 {
